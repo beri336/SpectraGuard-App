@@ -1,2 +1,2 @@
-# SpectraGuard---App
+# SpectraGuard-App
 AR Monitoring Assistant
